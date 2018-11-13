@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+
+p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: .75rem;
+  line-height: 1.25rem;
+  font-family: Roboto;
+  color: #777;
+  text-align: right;
+}
+.milk-text {
+  font-weight: bold;
+  font-size: 2.6rem;
+  font-family: "Clicker Script";
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+#logo {
+  background-color: aqua;
+}
